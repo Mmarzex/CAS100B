@@ -49,17 +49,6 @@ Problem Description and Analysis:
 
 ----
 
-.. image:: bulb.jpg
-    :height: 300px
-    :width: 300px
-
-.. note::
-
-    You also have a clock and a timer, so you know how much time you have
-    left.
-
-----
-
 * We will refer to Pennsylvania State University as Penn State
 * For simplicty when we refer to tuition, we mean Freshman and Sophomore instate tuition costs
 * As of the 2013-14 School term tuition is $8,045 (add source)
@@ -130,3 +119,34 @@ Evalute Possible Solutions:
 * Best way is to start with a dedicated group of students and grow the small group. A small group will still exist in the group as the executive board.
 * Continual newsletters and updates about reducing tuition will keep people involved. There's a direct desire for students to pay less. Fear, uncertainty, and doubt will scare people into joining.
 
+----
+
+:data-rotate: -90
+
+Consensus Decision Making:
+==========================
+
+* Create a small diverse group to look at PSU budge and look for misuse of funds and hold people accountable for misspending
+
+----
+
+:data-rotate: 90
+
+Implementing The Solution:
+==========================
+
+* Small group can post stall stories and allocated budget all over campus
+* Small group can petition to administrative and state officials
+
+----
+
+Steps to Implement:
+===================
+1. Form a small group, containing a faculty member
+2. Create the Organization
+3. Create an Executive Board, Each board member will hold a position in specific areas useful to the cause
+
+----
+
+4. Gather a large amount of general group members
+5. Create petition to create higher awareness and support the cause
