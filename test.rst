@@ -26,14 +26,15 @@ official documentation at https://hovercraft.readthedocs.org/
 CAS 100B Group Constructed Presentation:
 ========================================
 
-Names
+* Krista Feather, Jenna Kreider, Bryan Moore, Kenneth Au, Max Marze
+
 -----
 
 .. note::
 
     Welcome to the presenter console!
 
-----
+
 
 :data-rotate: 90
 
@@ -116,8 +117,27 @@ Evalute Possible Solutions:
 
 ----
 
+* We find a small group solution necessary to alleviate student tuition costs
+
+----
+
 * Best way is to start with a dedicated group of students and grow the small group. A small group will still exist in the group as the executive board.
-* Continual newsletters and updates about reducing tuition will keep people involved. There's a direct desire for students to pay less. Fear, uncertainty, and doubt will scare people into joining.
+
+----
+
+* Continual newsletters and updates about reducing tuition will keep people involved. Students and parents desire to pay less. As long as the group shows potential in lowering tuition, people will continue to participate and contribute. It will be important for the group to maintain a strong executive committee to continue the effort.
+
+----
+
+* The immediate goal is to form the group and gain awareness. The short term goal is to reduce tuition cost through petition. The long term goal is to maintain a reasonable tuition while reducing unnecessary costs. In all cases, a group will be necessary to solve the problem.
+
+----
+
+* As this is a complex problem requiring knowledge in finance, politics, human resources, education, and many more, a group's collective input and throughput will help in tackling the problem. However, a group may create delays and bureaucracy, inhibiting progress. Collectively, Penn State and The Board of Trustees will listen to student and parent concerns.
+
+----
+
+* The solution will require a dedicated group of students who have the passion and knowledge to promote the cause. The group will need funds for their campaign. In order to spread the correct information, the students will need access to administrative budget sheets and connections to experts.
 
 ----
 
@@ -126,7 +146,21 @@ Evalute Possible Solutions:
 Consensus Decision Making:
 ==========================
 
-* Create a small diverse group to look at PSU budge and look for misuse of funds and hold people accountable for misspending
+* Create a small group of motivated individuals to spread awareness of the rising tuition of Penn State's main campus
+* Small group consisting of an executive board with 5 members, President, Vice-President, Treasurer, Advertiser/Marketing Chair, Event Planner
+
+----
+
+Raise Awareness Through Advertisement:
+======================================
+
+* Show specific parts of unnecessary spending in each department
+* Illustrate administrative/athletic director salaries
+* Display rising tuition graph
+
+----
+
+* Accept new members to form the largest group possible after enough awareness has been proclaimed by the executive board
 
 ----
 
@@ -150,3 +184,18 @@ Steps to Implement:
 
 4. Gather a large amount of general group members
 5. Create petition to create higher awareness and support the cause
+
+----
+
+:data-rotate: -90
+
+Citations:
+==========
+
+* "Penn State Tuition." Tuition and Costs. N.p., n.d. Web. 26 Mar. 2014.
+* Gaines, Cork. "The 25 Highest-Paid Coaches In College Football." Business Insider. Business Insider, Inc, 23 Nov. 2013. Web. 27 Mar. 2014.
+
+----
+
+* "Penn State Student Petition." Penn State Student Petition. N.p., n.d. Web. 27 Mar. 2014.
+* How to Get College Tuition Under Control. Dow Jones & Company, n.d. Web. 25 Mar. 2014.
